@@ -1,0 +1,20 @@
+/* TEAM */
+
+Author:              Pratik Fandade
+Contact:             pratik.fandade18@gmail.com
+Website:             http://pratikfandade.github.io
+Twitter:             @PratikFandade
+Location:            Pune, India
+Contributions:       Design, HTML, Sass (CSS), JS
+
+/* SITE */
+
+Language:            English
+Standards:           HTML5, CSS3
+Components:          Modernizr, jQuery, etc.
+CMS:                 Static
+Tools:               Gulp, NPM
+IDE:                 Visual Studio Code
+Built on:            Windows OS
+
+/* THANKS */
